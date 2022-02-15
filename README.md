@@ -1,7 +1,7 @@
 # Books
 All the books that you need for a CS Degree
 
-hr<>
+<hr>
 
 <div align=left>
   <a href="https://github.com/Sabyasachi-Seal/Books/tree/main/CSE%203rd%20Sem">3rd Sem Books</a>
