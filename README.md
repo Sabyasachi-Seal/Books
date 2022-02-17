@@ -1,5 +1,5 @@
 # Books
-All the books that you need for a CS Degree
+All the books that can help you for a CS Degree
 
 <hr>
 
