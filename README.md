@@ -16,4 +16,7 @@
   <a href="https://github.com/Sabyasachi-Seal/Books/tree/main/CSE%207th%20Sem">7th Sem Books</a>
   <hr>
   <a href="https://github.com/Sabyasachi-Seal/Books/tree/main/CSE%208th%20Sem">8th Sem Books</a>
+  <hr>
+  <a href="https://github.com/Sabyasachi-Seal/Books/tree/main/Others">Other Books</a>
+  <hr>
 </div>
