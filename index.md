@@ -1,7 +1,7 @@
 <div align=center>
   <h1>Fair Use - Education</h1>
   <h3>This is made for the sole reason of benifit of students and not any other reasons.</h3>
-div align=center>
+<div align=center>
   <a href="https://github.com/seal-sabyasachi/StudyBooks/tree/master/CSE%203rd%20Sem">3rd Sem Books</a>
   <hr>
   <a href="https://github.com/seal-sabyasachi/StudyBooks/tree/master/CSE%204th%20Sem">4th Sem Books</a>
