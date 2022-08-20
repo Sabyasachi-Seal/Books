@@ -5,7 +5,7 @@
      </h3>
      <hr>
 <h1>
-     <a href="http://seal-sabyasachi.github.io/StudyBooks/">
+     <a href="http://sabyasachi-seal.github.io/Books/">
       Books!
     </a>
   </h1>
